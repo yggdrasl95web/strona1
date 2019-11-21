@@ -1,0 +1,177 @@
+
+
+body{
+
+    margin: 0;
+    height: 3400px;
+    background-image: url(img/bg.png);
+    background-repeat: round;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
+/*MENU górne i wszystkie ikony */
+
+.bar{
+    width: 928px;
+    height: 60px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    margin-top: 105px;;
+}
+
+.slide_menu{
+    background-color: #56ccc8;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.slide_menu img{
+
+    margin: 21px 19px;
+
+}
+
+.menu{
+
+    width: 387px;
+    height: 16px;
+    padding-top: 5px;
+    padding-left: 50px;
+    float: left;
+}
+
+.menu_all{
+    display: inline-block;
+    color: #475055;
+    margin: 0 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.menu_all:hover{
+        font-weight: 500;
+}
+
+.serch{
+    float: left;
+    width: 60px;
+    height: 60px;
+}
+
+.icons{
+
+    float: left;
+    height: 60px;
+    width: 120px;
+    border-left: 0.5px solid #dde2e4;
+    border-right: 0.5px solid #dde2e4;
+}
+
+.login{
+    float: left;
+    height: 60px;
+    width: 60px;
+}
+
+.leftmenu{
+    float: right;
+}
+
+.serch img{
+    margin: 23px;
+}
+
+.icons img{
+    margin: 22px 12px;
+}
+
+.login img{
+    margin: 23px;
+}
+
+/*koniec górnej belki */
+
+/*pierwszy kontent*/
+.firstcontent{
+    width: 928px;
+    height: 673px;
+    margin: 14px auto;
+}
+.onenav{
+    width: 224px;
+    height: 673px;
+    float: left;
+}
+.wh_nav{
+    width: 224px;
+    height: 60px;
+    background-color: #ffffff;
+    border: 0.3px solid #dde2e4;
+}
+
+.wh_nav:hover{
+    background-color: #56ccc8;
+}
+
+.wh_nav img{
+    display: inline-block;
+    float: left;
+    margin: 18px;
+
+}
+
+.wh_nav p{
+    margin: 21px;
+    display: inline-block;
+}
+
+.tel_email{
+    background-color: #c5cdd1;
+    height: 246px;
+
+}
+
+.low_menu img{
+    margin: 20px;
+    float: left;
+    display: inline-block;
+}
+
+.low_menu p{
+    display: inline-block;
+    color: #ffffff;
+}
+
+.secnav{
+    width: 240px;
+    height: 670px;
+    background-color: #152840;
+    float: left;
+
+}
+
+.poj{
+    width: 240px;
+    height: 167px;
+}
+
+.poj p{
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+    display: inline-block;
+    margin: 30px 0;
+    margin-left: 60px;
+}
+/*koniec pierwszego kontentu*/
+
